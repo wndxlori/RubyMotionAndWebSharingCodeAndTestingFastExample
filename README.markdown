@@ -6,7 +6,7 @@ I gave this talk at [SydInMotion](http://sydinmotion.com/) after having worked o
 
 This example shows how the delivery mechinisms (the web and ios apps) don't care about the business logic or how things are stored, they're just plugged into the core stuff which is shared between the two. That shared code is extracted into gems, and implements real use cases without any care for the UI or how it's going to be stored.
 
-I've included the slides in this repo, so click on 'slides.pdf' in the files above. I plan to record me giving this talk at some point too, at which point I'll put a link here.
+I've included the slides in this repo, which you can [download here](https://github.com/FluffyJack/RubyMotionAndWebSharingCodeAndTestingFastExample/blob/master/slides.pdf?raw=true). I plan to record me giving this talk at some point too, at which point I'll put a link here.
 
 ## Related Articles
 
