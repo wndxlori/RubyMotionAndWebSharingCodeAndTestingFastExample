@@ -1,0 +1,6 @@
+require 'convert_it/celsius'
+require 'convert_it/fahrenheit'
+require 'convert_it/convert_celsius_to_fahrenheit'
+require 'convert_it/convert_fahrenheit_to_celsius'
+require 'convert_it/view_previous_results'
+require 'convert_it/store_result'

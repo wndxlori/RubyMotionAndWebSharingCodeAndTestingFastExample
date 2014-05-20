@@ -1,0 +1,24 @@
+PATH
+  remote: ../shared/convert_it_core
+  specs:
+    convert_it_core (0.1.0)
+
+PATH
+  remote: ../shared/in_memory_repo
+  specs:
+    in_memory_repo (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mustache (0.99.5)
+    rack (1.5.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  convert_it_core!
+  in_memory_repo!
+  mustache
+  rack

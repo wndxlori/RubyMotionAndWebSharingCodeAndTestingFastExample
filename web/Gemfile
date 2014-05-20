@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+
+gem 'rack'
+gem 'mustache'
+gem 'convert_it_core', path: '../shared/convert_it_core'
+gem 'in_memory_repo', path: '../shared/in_memory_repo'

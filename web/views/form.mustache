@@ -1,0 +1,24 @@
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+<h1>Result: {{result}}</h1>
+<form action="/" method="post">
+  <input name="temp" placeholder="Enter temperature">
+  to
+  <select name="type">
+    <option value="f">&#x2109;</option>
+    <option value="c">&#x2103;</option>
+  </select>
+  <input type="submit">
+</form>
+
+<p>Previous results</p>
+<ul>
+{{#previous_results}}
+  <li>{{celsius}} = {{fahrenheit}}</li>
+{{/previous_results}}
+</ul>
+</body>
+</html>
