@@ -8,6 +8,12 @@ This example shows how the delivery mechinisms (the web and ios apps) don't care
 
 I've included the slides in this repo, so click on 'slides.pdf' in the files above. I plan to record me giving this talk at some point too, at which point I'll put a link here.
 
+## Related Articles
+
+* [Truly "Universal" RubyMotion Apps](http://blog.motioninmotion.tv/truly-universal-rubymotion-apps)
+* [Writing Gems for Ruby and RubyMotion](http://blog.motioninmotion.tv/gems-for-ruby-or-rubymotion)
+* [How to Test RubyMotion with any Ruby Test Framework](http://blog.motioninmotion.tv/how-to-test-rubymotion-with-any-ruby-test-framework)
+
 ## Donate to the FluffyJack cause
 
 If you like my work and want to help me keep on doing it, subscribe to [my screencasts](https://motioninmotion.tv/), [buy my book about RubyMotion for Rails Developers](http://book.motioninmotion.tv/), or hire me for work or teaching by emailing me at [info@fluffyjack.com](mailto:info@fluffyjack.com).
